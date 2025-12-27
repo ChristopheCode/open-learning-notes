@@ -50,8 +50,6 @@ Everything here is incomplete by design.
 - behavioural manipulation  
 - rigid methodologies  
 
-This is not an EdTech startup.
-
 ---
 
 ## 👀 How to read this repository
