@@ -1,6 +1,6 @@
 # Art as a central learning space
 
-Date: 2025-01
+Date: 2025-12
 
 Context:
 These are working notes about art, education, and learning design.
