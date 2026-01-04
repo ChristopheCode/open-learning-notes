@@ -1,6 +1,6 @@
 # Why I stopped 1-to-1 teaching
 
-Date: 2025-01
+Date: 2025-12
 
 Context:
 These are working notes about pedagogy, open learning, and design choices.
