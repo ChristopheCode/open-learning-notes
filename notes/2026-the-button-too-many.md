@@ -166,3 +166,17 @@ And perhaps most importantly:
 Sometimes the challenge is not adding a feature.
 
 It is recognising when a system should remain simple.
+
+## Open questions
+
+Should small projects actively resist feature expansion?
+
+How much technical complexity is acceptable for a tool that aims to remain simple?
+
+Where is the balance between improvement and stability?
+
+How can AI be used productively without creating additional technical debt?
+
+And perhaps the most practical question:
+
+when does a small interface improvement stop being worth the effort?
