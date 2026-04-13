@@ -7,7 +7,7 @@ Context: These are working notes about a small design issue encountered while mo
 
 ## Background
 
-For several months, a modification of the homepage has been pending.
+For several weeks, a modification of the homepage has been pending.
 
 The original intention was simple:  
 adjust the buttons on the homepage in order to improve navigation and visual balance.
