@@ -180,3 +180,7 @@ should time be invested in learning the development ecosystem itself —
 following resources such as the GitHub YouTube channel,  
 learning tools like Copilot and integrated development assistants —  
 in order to progressively increase technical autonomy within the project?
+
+These questions remain open.
+
+This note records a decision, not a conclusion.
